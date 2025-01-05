@@ -1,0 +1,11 @@
+# Ignoriere den virtuellen Python-Umgebungsordner
+venv/
+
+# Sonstige typische Python-Dateien oder Ordner, die ignoriert werden sollten
+__pycache__/
+*.pyc
+*.pyo
+
+# Falls spezifische IDEs genutzt werden
+.idea/
+.vscode/
